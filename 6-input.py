@@ -10,5 +10,5 @@ print(type(senha)) # <class 'str'>
 
 # Se eu quiser qualquer outro tipo, tenho que fazer a conversão
 quantidade_filmes = int(input('Quantos filmes você já viu esse mês?\n '))      
-print(type(quantidade_filmes))#  
+print(type(quantidade_filmes))#  <class 'int'>
 
